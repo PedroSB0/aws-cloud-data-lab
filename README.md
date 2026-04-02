@@ -10,10 +10,10 @@
 ![Config cluster 3](3configcluster2.png)
 
 #### 4. Configuração do Cluster
-![Config cluster 4](img/4configcluster3.png)
+![Config cluster 4](4configcluster3.png)
 
 #### 5. Configuração do Cluster
-![Config cluster 5](img/5configcluster4.png)
+![Config cluster 5](5configcluster4.png)
 
 #### 6. Criacao VPC
 ![Criacao VPC](6CriacaoVPC.png)
