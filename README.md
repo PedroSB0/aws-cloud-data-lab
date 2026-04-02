@@ -1,20 +1,40 @@
 ### 📸 Passo a Passo em Imagens
 
 #### 1. Configuração do Cluster
-![Configuração do Software](1CriaçãoCluster.png)
+![Criação Cluster](1CriaçãoCluster.png)
 
-#### 2. Execução do Job Hive
-![Status Completed](img/2Config-cluster-1.png)
+#### 2. Configuração do Cluster
+![Config cluster 2](2Configcluster1.png)
 
-#### 3. Monitoramento de Custos (FinOps)
-![Custo Zerado](img/3config-cluster-2.png)
+#### 3. Configuração do Cluster
+![Config cluster 3](3configcluster2.png)
 
-![Custo Zerado](img/4config-cluster-3.png)
+#### 4. Configuração do Cluster
+![Config cluster 4](img/4configcluster3.png)
 
-![Custo Zerado](img/5config-cluster-4.png)
+#### 5. Configuração do Cluster
+![Config cluster 5](img/5configcluster4.png)
 
-![Custo Zerado](img/3config-cluster-2.png)
+#### 6. Criacao VPC
+![Criacao VPC](6CriacaoVPC.png)
 
-![Custo Zerado](img/3config-cluster-2.png)
+#### 7. Fluxo de VPC
+![Fluxo de VPC](7FluxodeVPC.png)
 
-![Custo Zerado](img/3config-cluster-2.png)
+#### 8. CONFIG IAM
+![config iam](8CONFIGIAM.png)
+
+#### 9. instanciaEC2
+![instancia EC2](9instanciaEC2.png)
+
+#### 10. Cluster Criado
+![Cluster Criado](10ClusterCriado.png)
+
+#### 11. Etapas
+![Adicao de Etapa](11AdicaodeEtapa.png)
+
+#### 12. Etapa com Obj completo
+![Objeto](12EtapacomObjcompleto.png)
+
+#### 13. Final
+![Final Cluster encerrado](13FinalClusterencerrado.png)
