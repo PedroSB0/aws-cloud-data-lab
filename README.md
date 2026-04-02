@@ -1,7 +1,7 @@
 ### 📸 Passo a Passo em Imagens
 
 #### 1. Configuração do Cluster
-![Configuração do Software](img/1Criação-Cluster.png)
+![Configuração do Software](1CriaçãoCluster.png)
 
 #### 2. Execução do Job Hive
 ![Status Completed](img/2Config-cluster-1.png)
