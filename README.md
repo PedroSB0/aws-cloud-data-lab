@@ -45,10 +45,10 @@ Descrição Técnica: Adição de uma etapa (Step) de processamento utilizando o
 ![Adicao de Etapa](11AdicaodeEtapa.png)
 
 #### 12. Validação Final e Sucesso do Job Hive
-Descrição Técnica: Painel de monitoramento de etapas exibindo o status final "Completed" para o job script_hive. Esta evidência confirma que o cluster processou corretamente as instruções SQL e que a integração entre o Amazon EMR e os scripts armazenados no S3 funcionou sem erros.
+Descrição Técnica: Painel de monitoramento de etapas exibindo o status final "Completed" para o serviço script_hive. Esta evidência confirma que o cluster processou corretamente as instruções SQL e que a integração entre o Amazon EMR e os scripts armazenados no S3 funcionou sem erros.
 ![Objeto](12EtapacomObjcompleto.png)
 
 #### 13. Encerramento de Recursos e Governança de Custos
 
-Descrição Técnica: Confirmação do status "Encerrando" (Solicitação do usuário) do cluster após exatos 31 minutos de operação. Esta evidência demonstra a aplicação de boas práticas de FinOps, garantindo que a infraestrutura de Big Data seja utilizada apenas pelo tempo necessário para o processamento, eliminando custos ociosos após a conclusão do Job.
+Descrição Técnica: Confirmação do status "Encerrando" (Solicitação do usuário) do cluster após exatos 31 minutos de operação. Esta evidência demonstra a aplicação de boas práticas de FinOps, garantindo que a infraestrutura de Big Data seja utilizada apenas pelo tempo necessário para o processamento, eliminando custos ociosos após a conclusão do serviço.
 ![Final Cluster encerrado](13FinalClusterencerrado.png)
