@@ -1,3 +1,10 @@
+###📖 Introdução: Processamento Distribuído com MapReduce
+Este projeto apresenta a implementação prática de um ecossistema de Big Data baseado no modelo MapReduce, utilizando o serviço gerenciado Amazon EMR.
+
+O objetivo central foi aplicar os conceitos de processamento paralelo e distribuído para manipular grandes volumes de dados. Através da interface do Apache Hive, as instruções SQL foram traduzidas em tarefas de Map e Reduce, executadas de forma coordenada entre o nó primário e os nós de processamento (Core e Task) do cluster.
+
+A jornada documentada abaixo cobre desde a preparação do "terreno" (infraestrutura de rede VPC) até a validação do processamento e o encerramento dos recursos para otimização de custos.
+
 ### 📸 Passo a Passo em Imagens
 
 #### 1. Configuração do Cluster EMR e Stack de Software
